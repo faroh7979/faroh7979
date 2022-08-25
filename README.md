@@ -3,7 +3,6 @@
 
 **I am Dimitar Arabadzhiev _faroh7979**  ✨ _python_enthusiast ✨.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my GitHub profile
 - 🌱 I’m currently learning Python OOP
@@ -15,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Lott-ODSC](Lott-ODSC.jpg)
