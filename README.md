@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on my GitHub profile
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning HTML & CSS
 <!---
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
