@@ -1,6 +1,6 @@
 qqqq### Hi there 👋
 <style>
-  p {
+  .p {
     background-color: red;
   }
 </style>
