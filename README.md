@@ -1,9 +1,5 @@
 qqqq### Hi there 👋
-<style>
-  .p {
-    background-color: red;
-  }
-</style>
+<h1>Liverpool</h1>
 
 **I am Dimitar Arabadzhiev _faroh7979**  ✨ _python_enthusiast ✨.
 
