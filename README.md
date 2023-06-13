@@ -1,5 +1,5 @@
 qqqq### Hi there 👋
-<h1>Liverpool</h1>
+<h1>MyCard</h1>
 
 **I am Dimitar Arabadzhiev _faroh7979**  ✨ _python_enthusiast ✨.
 
@@ -15,4 +15,3 @@ qqqq### Hi there 👋
 - ⚡ Fun fact: ...
 -->
 ![Lott-ODSC](Lott-ODSC.jpg)
-<p> Hello</p>
