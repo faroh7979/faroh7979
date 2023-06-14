@@ -1,7 +1,7 @@
 qqqq### Hi there 👋
 <h1>MyCard</h1>
 
-<h2>**I am Dimitar Arabadzhiev faroh7979**  ✨ _python_enthusiast ✨.</h2>
+<h6>**I am Dimitar Arabadzhiev faroh7979**  ✨ _python_enthusiast ✨.</h2>
 
 
 - 🔭 I’m currently working on my GitHub profile
