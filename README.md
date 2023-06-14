@@ -1,3 +1,11 @@
+<style>
+h1 {
+    color: green;
+    font-weight:700;
+    font-size: 30px;
+}
+</style>
+
 qqqq### Hi there 👋
 <h1>MyCard</h1>
 
