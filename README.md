@@ -1,5 +1,5 @@
 qqqq### Hi there👋
-<h1>MyCard!щ
+<h1>MyCard!
 </h1>
 
 <h6>**I am Dimitar Arabadzhiev faroh7979**  ✨ _python_enthusiast ✨.</h2>
