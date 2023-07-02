@@ -1,4 +1,4 @@
-qqqq### Hi there👋
+qqqq### Hi there
 <h1>MyCardy
 </h1>
 
