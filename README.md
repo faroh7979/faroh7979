@@ -1,4 +1,4 @@
-qqq### Hi thereu
+qqq### Hi there
 <h1>MyCard
 </h1>
 
