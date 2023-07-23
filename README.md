@@ -1,4 +1,4 @@
-### Hi therey
+### Hi there
 <h1>MyCard
 </h1>
 
