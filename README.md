@@ -1,4 +1,4 @@
- Hi theret
+ Hi there
 <h1>MyCardt
 </h1>
 
