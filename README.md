@@ -1,4 +1,4 @@
-etHi therert
+etHi therer
 <h1>MyCard
 </h1>
 
