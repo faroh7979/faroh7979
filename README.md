@@ -1,4 +1,4 @@
-Hi therezyx
+Hi therezy
 <h1>MyCard
 </h1>
 
