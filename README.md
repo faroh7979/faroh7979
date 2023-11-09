@@ -1,4 +1,4 @@
-Hi theres
+Hi there
 <h1>MyCardxabcd
 </h1>
 
