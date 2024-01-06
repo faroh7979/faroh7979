@@ -1,5 +1,5 @@
 Hi there
-<h1>MyCardтра
+<h1>MyCardтр
 </h1>a
 
 <h6>**I am Dimitar Arabadzhiev faroh7979**  ✨ _python_enthusiast ✨.</h2>
